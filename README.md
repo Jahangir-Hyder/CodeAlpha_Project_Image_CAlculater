@@ -1,1 +1,1 @@
-# CodeAlpha_Project_Image_CAlculater
+# CodeAlpha_Project_Image_Calculater
